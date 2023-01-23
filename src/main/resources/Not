@@ -1,0 +1,10 @@
+
+What we need?
+
+JWT Filter
+Auth Controller
+SpringAuthManager
+UserDetailsService
+TokenManager
+
+first we create token manager
